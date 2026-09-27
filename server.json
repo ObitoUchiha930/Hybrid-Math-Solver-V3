@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
+  "name": "io.github.ObitoUchiha930/hybrid-math-solver-v3",
+  "description": "Hybrid Math Solver V3 - TU Delft CSE by Faissal Ait Jana. Prevents LLMs from using incorrect formulas and ensures accurate mathematical reasoning",
+  "repository": {
+    "url": "https://github.com/ObitoUchiha930/Hybrid-Math-Solver-V3",
+    "source": "github",
+    "id": "ObitoUchiha930/Hybrid-Math-Solver-V3"
+  },
+  "version": "3.0.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "hybrid-math-solver-v3",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
